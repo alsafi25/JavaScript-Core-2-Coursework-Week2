@@ -12,13 +12,7 @@ function listOfNames(arrayOfPeople) {
         content.appendChild(h1);
         content.appendChild(h2);
     };
-    //content.appendChild(h1);
 
-    // for (let i of arrayOfPeople) {
-    //     content.insertAdjacentHTML('afterbegin',
-    //         `<h1>${i.name}</h1>
-    //   <h2>${i.job}</h2>`);
-    // }
 
 }
 
